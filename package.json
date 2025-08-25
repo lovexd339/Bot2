@@ -6,6 +6,6 @@
     "start": "node locker.js"
   },
   "dependencies": {
-    "facebook-chat-api": "latest"
+    "facebook-chat-api": "^1.6.0"
   }
 }
