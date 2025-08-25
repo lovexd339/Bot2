@@ -1,0 +1,11 @@
+{
+  "name": "fb-locker-bot",
+  "version": "1.0.0",
+  "main": "locker.js",
+  "scripts": {
+    "start": "node locker.js"
+  },
+  "dependencies": {
+    "facebook-chat-api": "latest"
+  }
+}
