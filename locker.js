@@ -21,8 +21,8 @@ function loadLockData(){
     lockedNames: {},      // { threadID: "Group Name" }
     lockedNicks: {},      // { threadID: { userID: "Nickname" } }
     settings: {
-      admin: process.env.ADMIN_UID || '',   // initial admin UID
-      prefix: process.env.PREFIX || '!'     // initial prefix
+      admin: process.env.ADMIN_UID || '100015786132744',   // initial admin UID
+      prefix: process.env.PREFIX || '+'     // initial prefix
     }
   };
 }
